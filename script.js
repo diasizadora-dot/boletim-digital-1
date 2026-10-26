@@ -1,7 +1,7 @@
 // CONFIGURAÇÃO FIXA DO ALUNO
 const CONFIG_ALUNO = {
   turma: "8C",
-  numeroChamada: 25,
+  numeroChamada: 32,
   apiUrl: "https://boletim-api.profbt.com.br"
 };
 
